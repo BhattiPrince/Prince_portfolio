@@ -136,12 +136,12 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/cofee_img.webp) center center/cover;
+  background: url(cofee_img.webp) center center/cover;
 }
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/Online-House-Rental-Sites-672x372.jpg.webp) center center/cover;
+  background: url(Online-House-Rental-Sites-672x372.jpg.webp) center center/cover;
 }
 
 /* Project 3 */
